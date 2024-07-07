@@ -4,7 +4,7 @@
 
 <img align="right" alt="Hacking" width="400" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=redwanhaasaan&label=Profile%20views&color=0e75b6&style=flat" alt="redwanhaasaan" /> </p>
+![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=jwenjian.visitor-badge&left_color=gray&right_color=black&left_text=Hello%20Visitors)
 
 - 📝 I regularly write articles on [https://medium.com/@redwanhasan](https://medium.com/@redwanhasan)
 
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=redwanhaasaan&show_icons=true&locale=en" alt="redwanhaasaan" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redwanhaasaan&" alt="redwanhaasaan" /></p>
+<p><img align="center" src="https://streak-stats.demolab.com/?user=redwanhaasaan&theme=dark" alt="redwanhaasaan" /></p>
