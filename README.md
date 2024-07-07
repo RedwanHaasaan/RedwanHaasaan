@@ -4,7 +4,7 @@
 
 <img align="right" alt="Hacking" width="400" src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=redwanhaasaan&label=Profile%20views&color=0e75b6&style=flat" alt="redwanhaasaan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=redwanhaasaan&label=My%20Visitors&style=flat&" alt="redwanhaasaan" /> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@redwanhasan](https://medium.com/@redwanhasan)
 
