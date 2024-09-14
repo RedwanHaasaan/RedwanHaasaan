@@ -17,7 +17,7 @@
 <a href="https://twitter.com/redwan_haasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="redwan_haasan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25116818" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25116818" height="30" width="40" /></a>
 <a href="https://fb.com/redwanhaasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="redwanhaasan" height="30" width="40" /></a>
-<a href="https://instagram.com/redwan_haasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="redwan_haasan" height="30" width="40" /></a>
+<a href="https://instagram.com/redwaan_hasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="redwan_haasan" height="30" width="40" /></a>
 <a href="https://medium.com/@redwanhasan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@redwanhasan" height="30" width="40" /></a>
 </p>
 <br>
