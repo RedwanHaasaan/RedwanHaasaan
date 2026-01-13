@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Redwan Hasan</h1>
 
 <h3 align="center">
-Cyber Security Enthusiast | Ethical Hacker | Web Security & Frontend Developer
+Full Stack Web Developer | System Architecture Enthusiast | Security-Aware Engineer
 </h3>
 
 <p align="center">
@@ -31,9 +31,11 @@ Currently, I am enhancing my **full-stack and security mindset** by learning mod
 
 ## 🎯 Career Focus
 
-- 🔐 Junior Cyber Security / SOC / Penetration Testing roles  
-- 🌐 Web Security & Secure Frontend Development  
-- 🛡️ Blue Team fundamentals & application defense  
+- 🌐 Full Stack Web Developer (Frontend + Backend)
+- 🏗️ System Architecture & Scalable Application Design
+- ⚙️ Building secure, performant, and maintainable web applications
+- 🔐 Applying security best practices in modern web systems
+- 🚀 Long-term goal: Software Engineer / System Architect
 
 ---
 
