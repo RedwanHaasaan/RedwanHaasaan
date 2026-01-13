@@ -8,8 +8,6 @@ Cyber Security Enthusiast | Ethical Hacker | Web Security & Frontend Developer
 Computer Science Undergraduate @ Northern University Bangladesh (4th Semester)
 </p>
 
-<img align="right" alt="Cyber Security & Development" width="380"
-src="https://adcy.io/wp-content/uploads/2020/04/anti-hacking.gif"/>
 
 <p align="left">
 <img src="https://komarev.com/ghpvc/?username=redwanhaasaan&label=Profile%20Views&style=flat" alt="profile views"/>
@@ -175,10 +173,3 @@ A dynamic frontend website showcasing local places and services.
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </p>
 
----
-
-## 📈 GitHub Activity
-
-<p>
-<img align="left" src="https://streak-stats.demolab.com/?user=redwanhaasaan&theme=dark" alt="github streak"/>
-</p>
