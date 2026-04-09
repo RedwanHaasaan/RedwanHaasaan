@@ -6,10 +6,16 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hello+%F0%9F%91%8B;I'm+Redwan+Hasan;Frontend+Web+Developer;React+%7C+Next.js+%7C+Node.js">
 </h1>
 
+<div align="center">
+  <a href="https://www.linkedin.com/in/redwanhaasan/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://x.com/Redwan_Haasan"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white" alt="Twitter Badge"/></a>
+  <a href="mailto:redwanhasan.workspace@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white" alt="Gmail Badge"/></a>
+</div>
+
 <h2>👨‍💻 About Me</h2>
 
 <p align="left">
-  <img src="./coder.gif" align="right" width="260" />
+  <img src="./coding.gif" align="right" width="400" />
   
   I am a <b>Computer Science student</b> with professional training in <b>Ethical Hacking and Cyber Security</b>, combined with hands-on experience in <b>modern web development</b>.
   <br><br>
@@ -35,6 +41,27 @@
 - 🚀 Long-term goal: Software Engineer / System Architect
 
 ---
+
+<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
+
+<div align="center">
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="images/css.svg"></code>
+  <code><img title="SASS" height="25" src="images/sass.svg"></code>
+  <code><img title="React" height="25" src="images/react-original.svg"></code>
+  <code><img title="Redux" height="25" src="images/redux.svg"></code>
+  <code><img title="Git" height="25" src="images/git-original.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
+  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
+  <code><img title="JSON" height="25" src="images/json.svg"></code>
+  <code><img title="GitHub" height="25" src="images/github.svg"></code>
+  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
+  <code><img title="npm" height="25" src="images/npm.svg"></code>
+</div>
 
 ## ⭐ Featured Projects
 
@@ -83,29 +110,6 @@ A dynamic frontend website showcasing local places and services.
 
 ---
 
-## 🧠 Skills & Expertise
-
-### 🔐 Cyber Security
-- Web Application Penetration Testing  
-- OWASP Top 10  
-- Active Directory (Internal Concepts)  
-- Vulnerability Scanning & Exploitation  
-- Security Tools (hands-on training)  
-
-### 💻 Web Development
-- HTML5, CSS3  
-- Tailwind CSS  
-- JavaScript (ES6+)  
-- React.js  
-- Responsive UI Design  
-
-### ⚙️ Programming & OS
-- C  
-- C++  
-- Python  
-- Linux  
-
----
 
 ## 📚 Education & Training
 
@@ -157,18 +161,4 @@ A dynamic frontend website showcasing local places and services.
 </p>
 
 ---
-
-## 🧰 Languages & Tools
-
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
-</p>
 
