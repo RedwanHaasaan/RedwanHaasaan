@@ -31,7 +31,6 @@
   Currently, I’m exploring Next.js & backend architecture.
 </p>
 
-
 ## 🎯 Career Focus
 
 - 🌐 Full Stack Web Developer (Frontend + Backend)
@@ -42,74 +41,82 @@
 
 ---
 
-<h2 align="center">🔥 Languages & Frameworks & Tools 🔥</h2>
+<h2 align="center">Languages & Frameworks & Tools</h2>
 
 <div align="center">
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="images/html5.svg"></code>
   <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
+  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
   <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Redux" height="25" src="images/redux.svg"></code>
   <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
   <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
   <code><img title="JSON" height="25" src="images/json.svg"></code>
   <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
   <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
 </div>
 
 ## ⭐ Featured Projects
 
 ### 🔐 Advanced File Encryption Application (Python)
+
 A security-focused application designed to protect sensitive files using encryption techniques.
+
 - Secure file encryption and decryption
 - Focused on data confidentiality and file protection
 - Practical implementation of cryptography concepts  
-**Tech:** Python
+  **Tech:** Python
 
 ---
 
 ### 🗄️ Student Database Management System (C)
+
 A console-based application for managing student information efficiently.
+
 - Create, read, update, and delete student records
 - Demonstrates strong understanding of file handling and memory management
 - Emphasis on structured programming and logic building  
-**Tech:** C
+  **Tech:** C
 
 ---
 
 ### 🏥 Doctor Care Website
+
 A responsive healthcare service website with a clean and accessible design.
+
 - Modern and user-friendly layout
 - Responsive design for multiple screen sizes
 - Well-structured sections for services and information  
-**Tech:** HTML, CSS
+  **Tech:** HTML, CSS
 
 ---
 
 ### 📚 Knowledge Vault
+
 A static educational website designed to organize and present knowledge content.
+
 - Clean and minimal UI design
 - Structured content presentation
 - Focused on readability and user experience  
-**Tech:** HTML, CSS
+  **Tech:** HTML, CSS
 
 ---
 
 ### 🌍 Explore Local
+
 A dynamic frontend website showcasing local places and services.
+
 - Interactive UI using JavaScript
 - Responsive and modern design
 - Enhanced user engagement through dynamic elements  
-**Tech:** HTML, CSS, JavaScript
+  **Tech:** HTML, CSS, JavaScript
 
 ---
-
 
 ## 📚 Education & Training
 
@@ -131,34 +138,3 @@ A dynamic frontend website showcasing local places and services.
   https://medium.com/@redwanhasan
 
 ---
-
-## 🤝 Connect With Me
-
-<p align="left">
-<a href="https://www.linkedin.com/in/redwanhaasan/" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="30" width="40"/>
-</a>
-
-<a href="https://dev.to/redwan_hasan" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40"/>
-</a>
-
-<a href="https://twitter.com/redwan_haasan" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40"/>
-</a>
-
-<a href="https://stackoverflow.com/users/25116818" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40"/>
-</a>
-
-<a href="https://medium.com/@redwanhasan" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" height="30" width="40"/>
-</a>
-</p>
-
-<p>
-<strong>Discord:</strong> genichiro_ashina
-</p>
-
----
-
