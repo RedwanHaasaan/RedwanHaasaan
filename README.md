@@ -15,7 +15,7 @@
 <h2>👨‍💻 About Me</h2>
 
 <p align="left">
-  <img src="./coding.gif" align="right" width="400" />
+  <img src="./gif/coding.gif" align="right" width="400" />
   
   I am a <b>Computer Science student</b> with professional training in <b>Ethical Hacking and Cyber Security</b>, combined with hands-on experience in <b>modern web development</b>.
   <br><br>
