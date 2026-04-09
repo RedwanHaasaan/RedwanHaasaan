@@ -6,38 +6,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hello+%F0%9F%91%8B;I'm+Redwan+Hasan;Frontend+Web+Developer;React+%7C+Next.js+%7C+Node.js">
 </h1>
 
-<h3 align="center">
-Full Stack Web Developer | System Architecture Enthusiast | Security-Aware Engineer
-</h3>
+<h2>👨‍💻 About Me</h2>
 
-<p align="center">
-Computer Science Undergraduate @ Northern University Bangladesh
+<p align="left">
+  <img src="./coder.gif" align="right" width="260" />
+  
+  I am a <b>Computer Science student</b> with professional training in <b>Ethical Hacking and Cyber Security</b>, combined with hands-on experience in <b>modern web development</b>.
+  <br><br>
+  
+  I have practical exposure to:
+  <br>
+  • Web application security testing<br>
+  • Active Directory internal concepts<br>
+  • Vulnerability analysis and exploitation tools<br>
+  • Building responsive and modern frontend interfaces
+  <br><br>
+  
+  Currently, I’m exploring Next.js & backend architecture.
 </p>
 
-
-
-
-
-<div align="right">
-  
-</div>
-
-
----
-
-## 👨‍💻 About Me
-
-I am a **Computer Science student** with professional training in **Ethical Hacking and Cyber Security**, combined with hands-on experience in **modern web development**.
-
-I have practical exposure to:
-- Web application security testing
-- Active Directory internal concepts
-- Vulnerability analysis and exploitation tools
-- Building responsive and modern frontend interfaces
-
-Currently, I’m exploring Next.js & backend architecture.
-
----
 
 ## 🎯 Career Focus
 
