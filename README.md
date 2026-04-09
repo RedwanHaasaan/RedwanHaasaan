@@ -1,17 +1,27 @@
-<h1 align="center">Hi 👋, I'm Redwan Hasan</h1>
+![](https://komarev.com/ghpvc/?username=redwanhaasaan&style=for-the-badge)
+
+![redwan_hasan](https://github.com/user-attachments/assets/d25506fe-633b-47d7-b452-2caa89f8a9b5)
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=500&size=30&duration=2800&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hello+%F0%9F%91%8B;I'm+Redwan+Hasan;Frontend+Web+Developer;React+%7C+Next.js+%7C+Node.js">
+</h1>
 
 <h3 align="center">
 Full Stack Web Developer | System Architecture Enthusiast | Security-Aware Engineer
 </h3>
 
 <p align="center">
-Computer Science Undergraduate @ Northern University Bangladesh (4th Semester)
+Computer Science Undergraduate @ Northern University Bangladesh
 </p>
 
 
-<p align="left">
-<img src="https://komarev.com/ghpvc/?username=redwanhaasaan&label=Profile%20Views&style=flat" alt="profile views"/>
-</p>
+
+
+
+<div align="right">
+  
+</div>
+
 
 ---
 
@@ -25,7 +35,7 @@ I have practical exposure to:
 - Vulnerability analysis and exploitation tools
 - Building responsive and modern frontend interfaces
 
-Currently, I am enhancing my **full-stack and security mindset** by learning modern web development to better understand application architecture and security from both **attacker and developer perspectives**.
+Currently, I’m exploring Next.js & backend architecture.
 
 ---
 
