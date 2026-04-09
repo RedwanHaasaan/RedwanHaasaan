@@ -43,22 +43,23 @@
 
 <h2 align="center">Languages & Frameworks & Tools</h2>
 
+## 🧠 Skills & Technologies
+
 <div align="center">
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40"/>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="JQuery" height="25" src="images/jquery-original.svg"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/>
+
+### 💻 Frontend Development
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+
+<br>
+
+### ⚙️ Backend & Programming
+<img src="https://skillicons.dev/icons?i=nodejs,python,c,cpp" />
+
+<br>
+
+### 🛠️ Tools & Technologies
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,linux" />
+
 </div>
 
 ## ⭐ Featured Projects
